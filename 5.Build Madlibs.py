@@ -1,0 +1,6 @@
+color =input("Enter a Color: ")
+plural_noun =input("Enter a Plural Noun:")
+adjective =input("Enter an Adjective:")
+print("trees are " +color)
+print(plural_noun + "are big")
+print ("please keep it" +adjective)
